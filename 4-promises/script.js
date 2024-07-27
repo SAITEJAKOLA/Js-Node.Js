@@ -8,6 +8,7 @@ Promise has 3 parts
 Promise type : type Promise object
 Promise state : Pending, Successful, Rejected
 Promise result: output of the async operation
+Promise Consumption: It can be consumed using then() and catch() methods. We can also use Async/Await to consume the promise.
  */
 /*
 
